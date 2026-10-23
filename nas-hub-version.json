@@ -1,10 +1,13 @@
 {
-  "versionCode": 43,
-  "versionName": "0.0.1",
+  "versionCode": 49,
+  "versionName": "0.0.2",
   "releaseDate": "2026-10-24",
-  "notes": "览搜浏览器全新出发：博览网络，一搜即达\n首页新增长搜索框：预设百度、360、必应、搜狗、谷歌可切换，也可直接输入网址打开\n新增浏览器 UA 设置：iPhone / iPad / 小米 / 华为 / 电脑 Chrome / 电脑 Edge / 自定义\n新增电脑模式与手机模式一键切换（站点页顶栏按钮），访问桌面版网页更方便\n多标签页顶栏按钮显示已打开数量\n「已保存的账号密码」移入隐私设置并更名「密码管理器」；「主题」菜单上移至站点管理之后\n「在线更新」入口收进关于本软件页「检查更新」按钮，检测到新版本在首页弹窗提醒、不强制更新\n版本号自此从 0.0.1 重新起算",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1/nas-hub-v0.0.1.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1/nas-hub-v0.0.1.apk",
+  "notes": "菜单面板改版：3 排 4 列两页宫格，第二页滑动翻页，面板高度降低一排；书签一键进入站点管理；长按「拦截广告」进入广告拦截设置页\n标签页弹窗改版：白底大圆角底部面板，地球图标 + 站点名 + 右侧关闭，当前标签高亮，下方大「＋」新建\n广告拦截改版：更名「广告拦截」，广告域名/关键词 + 元素 CSS 选择器合并为「自定义拦截」二级菜单，新增拦截条数统计与拦截白名单\n主题设置新增「导航页站点」：站点图标大小、每行列数可调\n搜索框右侧图标跟随当前搜索引擎；菜单夜间/桌面模式图标跟随当前状态（长按进主题/UA 设置）；去除标签页顶部关闭/模式/刷新按钮；底部导航修复点击无响应\n正式版版本号按发版递增（0.0.1 → 0.0.2），测试版固定显示 0.0.0.1",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.2/nas-hub-v0.0.2.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.2/nas-hub-v0.0.2.apk",
+  "giteeApkDebug": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.2/nas-hub-v0.0.2-debug.apk",
+  "githubApkDebug": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.2/nas-hub-v0.0.2-debug.apk",
+  "versionNameDebug": "0.0.0.2",
   "forceUpdate": false,
   "minSupportCode": 36
 }
