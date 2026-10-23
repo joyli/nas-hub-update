@@ -1,10 +1,10 @@
 {
-  "versionCode": 42,
-  "versionName": "3.21",
+  "versionCode": 43,
+  "versionName": "0.0.1",
   "releaseDate": "2026-10-24",
-  "notes": "新增在线更新模块：自动选择国内 Gitee / 国外 GitHub 线路检查新版本，支持下载安装、更新日志预览与自动检查开关。\n新增多站点标签访问：最多 8 个标签并存切换、分别关闭、同网址聚焦、后台自动暂停。\n自定义主题：进度条颜色与粗细、导航页图标底色（纯色/渐变）均可自定义。",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v3.21/nas-hub-v3.21.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v3.21/nas-hub-v3.21.apk",
+  "notes": "览搜浏览器全新出发：博览网络，一搜即达\n首页新增长搜索框：预设百度、360、必应、搜狗、谷歌可切换，也可直接输入网址打开\n新增浏览器 UA 设置：iPhone / iPad / 小米 / 华为 / 电脑 Chrome / 电脑 Edge / 自定义\n新增电脑模式与手机模式一键切换（站点页顶栏按钮），访问桌面版网页更方便\n多标签页顶栏按钮显示已打开数量\n「已保存的账号密码」移入隐私设置并更名「密码管理器」；「主题」菜单上移至站点管理之后\n「在线更新」入口收进关于本软件页「检查更新」按钮，检测到新版本在首页弹窗提醒、不强制更新\n版本号自此从 0.0.1 重新起算",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1/nas-hub-v0.0.1.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1/nas-hub-v0.0.1.apk",
   "forceUpdate": false,
   "minSupportCode": 36
 }
