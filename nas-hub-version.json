@@ -1,0 +1,10 @@
+{
+  "versionCode": 42,
+  "versionName": "3.21",
+  "releaseDate": "2026-10-24",
+  "notes": "新增在线更新模块：自动选择国内 Gitee / 国外 GitHub 线路检查新版本，支持下载安装、更新日志预览与自动检查开关。\n新增多站点标签访问：最多 8 个标签并存切换、分别关闭、同网址聚焦、后台自动暂停。\n自定义主题：进度条颜色与粗细、导航页图标底色（纯色/渐变）均可自定义。",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v3.21/nas-hub-v3.21.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v3.21/nas-hub-v3.21.apk",
+  "forceUpdate": false,
+  "minSupportCode": 36
+}
