@@ -1,13 +1,19 @@
 {
-  "versionCode": 51,
-  "versionName": "0.0.4",
+  "versionCode": 52,
+  "versionName": "0.0.5",
   "releaseDate": "2026-10-24",
-  "notes": "夜间模式切换后即时生效，所有界面立即换肤，无需重启\n主题设置新增「侧滑返回动画优化」开关\n主题设置新增「预测性返回手势」开关（Android 13+ 系统预测性返回）\n主题设置新增「标签页状态栏沉浸」开关，并可自定义状态栏颜色",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.4/nas-hub-v0.0.4.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.4/nas-hub-v0.0.4.apk",
+  "notes": "修复夜间模式：网页内容跟随主题即时变暗，切换主题不再跳回首屏\n主题页补充侧滑返回动画与预测性返回手势的生效条件说明",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.5",
+      "versionCode": 52,
+      "date": "2026-10-24",
+      "notes": "修复夜间模式网页内容未跟随变暗的问题\n切换主题后恢复到当前浏览页，不再跳回标签首屏\n主题页补充返回手势相关开关的生效条件说明"
+    },
     {
       "versionName": "0.0.4",
       "versionCode": 51,
