@@ -1,0 +1,36 @@
+{
+  "versionCode": 51,
+  "versionName": "0.0.0.4",
+  "releaseDate": "2026-10-24",
+  "notes": "（测试版）夜间模式切换后即时生效\n（测试版）主题设置新增「侧滑返回动画优化」「预测性返回手势」「标签页状态栏沉浸」开关\n（测试版）标签页状态栏可自定义着色颜色",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.4/nas-hub-v0.0.4-debug.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.4/nas-hub-v0.0.4-debug.apk",
+  "forceUpdate": false,
+  "minSupportCode": 36,
+  "history": [
+    {
+      "versionName": "0.0.0.4",
+      "versionCode": 51,
+      "date": "2026-10-24",
+      "notes": "（测试版）夜间模式切换后即时生效\n（测试版）主题设置新增「侧滑返回动画优化」「预测性返回手势」「标签页状态栏沉浸」开关\n（测试版）标签页状态栏可自定义着色颜色"
+    },
+    {
+      "versionName": "0.0.0.3",
+      "versionCode": 50,
+      "date": "2026-10-24",
+      "notes": "（测试版）启动页全新品牌图 + 5 秒\n（测试版）菜单面板 3 排 4 列两页宫格（第二页滑动翻页）\n（测试版）更新通道独立于正式版：测试版仅接收测试版更新包\n（测试版）关于页按当前通道列举更新说明"
+    },
+    {
+      "versionName": "0.0.0.2",
+      "versionCode": 49,
+      "date": "2026-10-23",
+      "notes": "（测试版）广告拦截改版 + 自定义拦截 + 拦截统计与白名单\n（测试版）标签页弹窗改版；搜索框搜索引擎图标"
+    },
+    {
+      "versionName": "0.0.0.1",
+      "versionCode": 47,
+      "date": "2026-10-22",
+      "notes": "（测试版）基线：浏览、多标签、主题、UA 设置\n（测试版）与正式版共用代码，但拥有独立的更新通道"
+    }
+  ]
+}
