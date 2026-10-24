@@ -1,13 +1,19 @@
 {
-  "versionCode": 54,
-  "versionName": "0.0.0.7",
+  "versionCode": 55,
+  "versionName": "0.0.0.8",
   "releaseDate": "2026-10-24",
-  "notes": "阅读模式入口收进菜单面板（不再悬浮在网页上），图标改为「阅」\n底部标签页数量图标与其他图标尺寸保持一致\n更新包下载完成后自动跳转系统安装界面\n下载保存至公共 Download/lansou 目录（正式版与测试版共用），安装包名改为 lansou.browser+版本号.apk",
+  "notes": "更新提醒弹窗改为圆角卡片，高度随内容自适应（更新日志过长时正文内部滚动，不再撑满屏幕）",
   "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5-debug.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.7/lansou.browser0.0.0.7.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.8/lansou.browser0.0.0.8.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.0.8",
+      "versionCode": 55,
+      "date": "2026-10-24",
+      "notes": "更新提醒弹窗改为圆角卡片，高度随内容自适应（更新日志过长时正文内部滚动，不再撑满屏幕）"
+    },
     {
       "versionName": "0.0.0.7",
       "versionCode": 54,
