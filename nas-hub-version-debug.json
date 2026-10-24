@@ -1,13 +1,19 @@
 {
-  "versionCode": 53,
-  "versionName": "0.0.0.6",
+  "versionCode": 54,
+  "versionName": "0.0.0.7",
   "releaseDate": "2026-10-24",
-  "notes": "修复小米澎湃OS 4（Android 15+）状态栏沉浸不生效：改用 edge-to-edge 方案，状态栏与顶部栏融为一体、自定义颜色正常着色\n预测性返回手势增强：Android 14+ 返回时页面跟随手势进度滑动预览，取消自动回弹",
+  "notes": "阅读模式入口收进菜单面板（不再悬浮在网页上），图标改为「阅」\n底部标签页数量图标与其他图标尺寸保持一致\n更新包下载完成后自动跳转系统安装界面\n下载保存至公共 Download/lansou 目录（正式版与测试版共用），安装包名改为 lansou.browser+版本号.apk",
   "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5-debug.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.6/nas-hub-v0.0.6-debug.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.7/lansou.browser0.0.0.7.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.0.7",
+      "versionCode": 54,
+      "date": "2026-10-24",
+      "notes": "阅读模式入口收进菜单面板（不再悬浮在网页上），图标改为「阅」\n底部标签页数量图标与其他图标尺寸保持一致\n更新包下载完成后自动跳转系统安装界面\n下载保存至公共 Download/lansou 目录（正式版与测试版共用），安装包名改为 lansou.browser+版本号.apk"
+    },
     {
       "versionName": "0.0.0.6",
       "versionCode": 53,
