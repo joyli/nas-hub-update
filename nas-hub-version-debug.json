@@ -1,13 +1,19 @@
 {
-  "versionCode": 56,
-  "versionName": "0.0.0.9",
+  "versionCode": 57,
+  "versionName": "0.0.1.0",
   "releaseDate": "2026-10-24",
-  "notes": "菜单面板中「阅读模式」与「分享」两项互换位置",
+  "notes": "修复站点（如老王磁力 laowanguo.top）搜索结果点击后跳回首页：target=_blank 链接交回主 WebView 时补上 Referer，并放行站点的人机验证请求，避免验证失败被弹回首页",
   "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5-debug.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.9/lansou.browser0.0.0.9.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.0/lansou.browser0.0.1.0.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.1.0",
+      "versionCode": 57,
+      "date": "2026-10-25",
+      "notes": "修复站点（如老王磁力 laowanguo.top）搜索结果点击后跳回首页：target=_blank 链接交回主 WebView 时补上 Referer，并放行站点的人机验证请求，避免验证失败被弹回首页"
+    },
     {
       "versionName": "0.0.0.9",
       "versionCode": 56,
