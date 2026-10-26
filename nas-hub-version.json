@@ -1,13 +1,19 @@
 {
-  "versionCode": 58,
-  "versionName": "0.1.1",
-  "releaseDate": "2026-10-24",
-  "notes": "新增手机存储文件访问权限：适配 Android 6~16 各版本存储权限（媒体分级权限 / 所有文件访问），启动时自动申请，设置页「通用 → 手机存储权限」可查看与授权；同时支持网页上传文件时选择手机本地文件",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.5/nas-hub-v0.0.5.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.1/lansou.browser0.1.1.apk",
+  "versionCode": 59,
+  "versionName": "0.1.2",
+  "releaseDate": "2026-10-26",
+  "notes": "性能优化：网页即点即开\n启动即预热浏览器内核，导航页站点提前完成 DNS 解析\n首屏脚本注入合并为一次，页面加载明显更快\n广告拦截规则匹配改为分层精确匹配，拦截更快更准\n历史记录改为后台写入，不再拖慢网页加载\n预加载与阅读器预加载改为按需创建，多标签更省内存",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.1.2/lansou.browser0.1.2.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.2/lansou.browser0.1.2.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.1.2",
+      "versionCode": 59,
+      "date": "2026-10-26",
+      "notes": "性能优化：网页即点即开\n启动即预热浏览器内核，导航页站点提前完成 DNS 解析\n首屏脚本注入合并为一次，页面加载明显更快\n广告拦截规则匹配改为分层精确匹配，拦截更快更准\n历史记录改为后台写入，不再拖慢网页加载\n预加载与阅读器预加载改为按需创建，多标签更省内存"
+    },
     {
       "versionName": "0.1.1",
       "versionCode": 58,
