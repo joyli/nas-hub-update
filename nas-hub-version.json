@@ -1,13 +1,19 @@
 {
-  "versionCode": 60,
-  "versionName": "0.1.3",
-  "releaseDate": "2026-10-26",
-  "notes": "视觉改版：让人眼前一亮\n全新品牌配色：靛蓝→青渐变，日间夜间双套主题\n导航页重做：渐变品牌带 + 悬浮搜索卡片 + squircle 图标宫格\n顶栏改品牌渐变，底部工具栏改为悬浮胶囊\n菜单面板：渐变头部 + 圆角方块图标底 + 圆形操作按钮\n标签页面板：渐变头部 + 圆角卡片行 + 渐变「新建标签页」按钮\n设置页与全部二级页：渐变图标圆底 + 圆角卡片 + 渐变顶栏\n应用图标重制：品牌渐变圆角方块 + 白色放大镜",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.1.3/lansou.browser0.1.3.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.3/lansou.browser0.1.3.apk",
+  "versionCode": 61,
+  "versionName": "0.1.4",
+  "releaseDate": "2026-10-28",
+  "notes": "修复导航页遮蔽：站点宫格不再被 45% 屏高截断\n宫格占满剩余空间，站点多时内部滚动，图标不再被切半\n版面延伸到悬浮工具栏上方，消除下方空白区域",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.1.4/lansou.browser0.1.4.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.4/lansou.browser0.1.4.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.1.4",
+      "versionCode": 61,
+      "date": "2026-10-28",
+      "notes": "修复导航页遮蔽：站点宫格不再被 45% 屏高截断\n宫格占满剩余空间，站点多时内部滚动，图标不再被切半\n版面延伸到悬浮工具栏上方，消除下方空白区域"
+    },
     {
       "versionName": "0.1.3",
       "versionCode": 60,
@@ -61,12 +67,6 @@
       "versionCode": 52,
       "date": "2026-10-24",
       "notes": "修复夜间模式网页内容未跟随变暗的问题\n切换主题后恢复到当前浏览页，不再跳回标签首屏\n主题页补充返回手势相关开关的生效条件说明"
-    },
-    {
-      "versionName": "0.0.4",
-      "versionCode": 51,
-      "date": "2026-10-24",
-      "notes": "夜间模式切换后即时生效，所有界面立即换肤\n主题设置新增「侧滑返回动画优化」「预测性返回手势」「标签页状态栏沉浸」三项开关\n标签页状态栏可自定义着色颜色"
     }
   ]
 }
