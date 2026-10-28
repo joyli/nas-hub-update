@@ -1,13 +1,19 @@
 {
-  "versionCode": 61,
-  "versionName": "0.0.1.4",
+  "versionCode": 62,
+  "versionName": "0.0.1.5",
   "releaseDate": "2026-10-28",
-  "notes": "（测试版）修复导航页遮蔽：站点宫格不再被 45% 屏高截断\n（测试版）宫格占满剩余空间，站点多时内部滚动，图标不再被切半\n（测试版）版面延伸到悬浮工具栏上方，消除下方空白区域",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1.4/lansou.browser0.0.1.4.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1.4/lansou.browser0.0.1.4.apk",
+  "notes": "（测试版）启动页重做：与最新图标同款\n（测试版）弃用旧整屏深蓝启动图，改为品牌渐变背景\n（测试版）中央大图标与桌面 APP 图标一致（品牌渐变圆角方块 + 白色放大镜）\n（测试版）新增「览搜」品牌名与标语，内容淡入 + 回弹入场\n（测试版）冷启动窗口背景同步为新渐变，不再闪旧色",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1.5/lansou.browser0.0.1.5.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1.5/lansou.browser0.0.1.5.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.1.5",
+      "versionCode": 62,
+      "date": "2026-10-28",
+      "notes": "（测试版）启动页重做：与最新图标同款\n（测试版）弃用旧整屏深蓝启动图，改为品牌渐变背景\n（测试版）中央大图标与桌面 APP 图标一致（品牌渐变圆角方块 + 白色放大镜）\n（测试版）新增「览搜」品牌名与标语，内容淡入 + 回弹入场\n（测试版）冷启动窗口背景同步为新渐变，不再闪旧色"
+    },
     {
       "versionName": "0.0.1.4",
       "versionCode": 61,
@@ -61,12 +67,6 @@
       "versionCode": 53,
       "date": "2026-10-24",
       "notes": "修复小米澎湃OS 4（Android 15+）状态栏沉浸不生效：改用 edge-to-edge 方案，状态栏与顶部栏融为一体、自定义颜色正常着色\n预测性返回手势增强：Android 14+ 返回时页面跟随手势进度滑动预览，取消自动回弹"
-    },
-    {
-      "versionName": "0.0.0.5",
-      "versionCode": 52,
-      "date": "2026-10-24",
-      "notes": "（测试版）修复夜间模式网页内容未跟随变暗\n（测试版）切换主题后恢复当前浏览页，不再跳回标签首屏\n（测试版）主题页补充返回手势生效条件说明"
     }
   ]
 }
