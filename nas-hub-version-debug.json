@@ -1,13 +1,19 @@
 {
-  "versionCode": 64,
-  "versionName": "0.0.1.7",
-  "releaseDate": "2026-10-28",
-  "notes": "（测试版）菜单底部按钮还原素雅样式：浅色圆底 + 中性色图标\n（测试版）修正退出（电源）图标错位：内容在图标视口中完全居中",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1.7/lansou.browser0.0.1.7.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1.7/lansou.browser0.0.1.7.apk",
+  "versionCode": 65,
+  "versionName": "0.0.1.8",
+  "releaseDate": "2026-10-31",
+  "notes": "（测试版）标签页面板去除头部蓝色渐变背景：头部内容融入白底面板，界面更清爽",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.0.1.8/lansou.browser0.0.1.8.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.0.1.8/lansou.browser0.0.1.8.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.0.1.8",
+      "versionCode": 65,
+      "date": "2026-10-31",
+      "notes": "（测试版）标签页面板去除头部蓝色渐变背景：头部内容融入白底面板，界面更清爽"
+    },
     {
       "versionName": "0.0.1.7",
       "versionCode": 64,
