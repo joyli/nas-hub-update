@@ -1,13 +1,19 @@
 {
-  "versionCode": 65,
-  "versionName": "0.1.8",
-  "releaseDate": "2026-10-31",
-  "notes": "标签页面板去除头部蓝色渐变背景：头部内容融入白底面板，界面更清爽",
-  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.1.8/lansou.browser0.1.8.apk",
-  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.8/lansou.browser0.1.8.apk",
+  "versionCode": 66,
+  "versionName": "0.1.9",
+  "releaseDate": "2026-11-27",
+  "notes": "新增网页文件下载机制：安装包/压缩包/种子等链接点击即下载到公共下载目录\n系统通知栏显示下载进度，完成后可直接打开\n需登录或防盗链站点自动携带 Cookie / User-Agent / Referer\n支持网页脚本生成的 blob 文件，兼容 Android 6~16",
+  "giteeApk": "https://gitee.com/izhuoe/nas-hub-update/releases/download/v0.1.9/lansou.browser0.1.9.apk",
+  "githubApk": "https://github.com/joyli/nas-hub-update/releases/download/v0.1.9/lansou.browser0.1.9.apk",
   "forceUpdate": false,
   "minSupportCode": 36,
   "history": [
+    {
+      "versionName": "0.1.9",
+      "versionCode": 66,
+      "date": "2026-11-27",
+      "notes": "新增网页文件下载机制：安装包/压缩包/种子等链接点击即下载到公共下载目录\n系统通知栏显示下载进度，完成后可直接打开\n需登录或防盗链站点自动携带 Cookie / User-Agent / Referer\n支持网页脚本生成的 blob 文件，兼容 Android 6~16"
+    },
     {
       "versionName": "0.1.8",
       "versionCode": 65,
